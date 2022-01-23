@@ -8,4 +8,4 @@ do{
         randomNumber.push(random)
     }
 }while(randomNumber.length<min - 1);
-console.log(randomNumber.length)
+console.log(randomNumber)
